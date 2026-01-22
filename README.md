@@ -14,3 +14,44 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# Event Booking Navbar UI
+
+A modern, responsive, Zomato-inspired navigation bar built using **React.js** and **Tailwind CSS**.  
+This project demonstrates production-level frontend practices including accessibility, responsive design, mobile-first UI, and smooth micro-interactions.
+
+## 🚀 Features
+- Sticky navbar with scroll shadow
+- Desktop & mobile responsive layout
+- Animated mobile drawer menu
+- Search bar with location selector
+- Clean hover animations
+- Accessible and keyboard-friendly
+- Reusable component structure
+- Optimized for performance
+
+## 🛠 Tech Stack
+- React.js
+- Tailwind CSS
+- React Router DOM
+- Lucide Icons
+- Vite
+
+## 📱 Responsive Design
+- Fully optimized for mobile, tablet, and desktop screens
+
+## 🎯 Use Case
+Perfect for:
+- Event booking platforms
+- Food delivery apps
+- Service marketplaces
+- Portfolio UI showcases
+
+## 🧑‍💻 Author
+**Rahul Kumar**  
+Frontend / UI Developer
+
+---
+
+⭐ If you like this project, feel free to star the repo!
